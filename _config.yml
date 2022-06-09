@@ -45,8 +45,3 @@ lang: en
 
 
 
-#10.06.2022   addition for github pages 
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: ngzhio/jekyll-theme-hamilton
